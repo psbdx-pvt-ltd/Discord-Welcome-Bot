@@ -35,7 +35,10 @@ Need more details? Click the button below to view the full documentation.
 ### 2. Local Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/PSBDx/discord-welcome-bot.git](https://github.com/PSBDx/discord-welcome-bot.git)
+git clone [https://github.com/psbdx-pvt-ltd/Discord-Welcome-Bot.git](https://github.com/psbdx-pvt-ltd/Discord-Welcome-Bot.git)
+
+# Enter directory
+cd Discord-Welcome-Bot
 
 # Install dependencies
 pip install -r requirements.txt
